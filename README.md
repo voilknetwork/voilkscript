@@ -14,12 +14,12 @@ An open JSON standard for Steem based apps.
 ```json
 {
   "profile": {
-    "name": "Ned Scott",
-    "about": "CEO and co-founder at Steemit",
-    "location": "New York",
-    "website": "https://steem.io/",
-    "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUknIiTNArR2xcz4XCyIMDRdmjAJV3JdJb0VspRuVfyYwbjb7",
-    "cover_image": "https://steemit.com/images/steemit.png"
+    "name": "Bilal Haider",
+    "about": "Founder at Voilk",
+    "location": "Islamabad",
+    "website": "https://voilk.com/",
+    "profile_image": "",
+    "cover_image": ""
   }
 }
 ```
