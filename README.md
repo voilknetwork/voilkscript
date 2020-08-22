@@ -1,6 +1,6 @@
-# steemscript
+# voilkScript
 
-An open JSON standard for Steem based apps.
+An open JSON standard for voilk based apps.
 
 ### Account json_metadata
 
